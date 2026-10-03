@@ -1,0 +1,12 @@
+{
+  "name": "codecrafthub",
+  "version": "1.0.0",
+  "description": "Personal learning goal tracker API",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
